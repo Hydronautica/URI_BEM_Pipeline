@@ -43,12 +43,8 @@ numfig_format = {
     'code-block': 'Listing %s',
 }
 
-math_numfig = True
-math_eqref_format = 'Eq. ({number})'
-
 # -- Bibliography (sphinxcontrib-bibtex) -------------------------------------
 bibtex_bibfiles = ['bibliography.bib']
-bibtex_reference_style = 'author_year'
 bibtex_default_style = 'unsrt'
 
 # -- Autosection labels ------------------------------------------------------

@@ -28,14 +28,6 @@ scripts to deliver a complete workflow:
 5. **Mooring stiffness analysis** — catenary and taut-wire line solvers
    with numerical linearisation to a 6 × 6 stiffness matrix (MATLAB).
 
-.. figure:: figures/pipeline_flowchart.png
-   :align: center
-   :width: 85%
-   :name: fig-pipeline
-
-   High-level pipeline flowchart.
-
-
 Motivation
 ----------
 
