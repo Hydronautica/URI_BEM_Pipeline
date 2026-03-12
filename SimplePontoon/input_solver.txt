@@ -1,0 +1,4 @@
+2				! Gauss quadrature, N^2 nodes, specify N (1-4)
+0.001			! eps_zmin for panel z minimum
+1				! Linear solver: 0=Gauss, 1=LU, 2=GMRES
+10 1e-5 1000	! GMRES: restart, tolerance, max iterations

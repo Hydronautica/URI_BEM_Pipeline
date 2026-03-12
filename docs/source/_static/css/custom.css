@@ -1,0 +1,21 @@
+/* URI BEM Analysis Pipeline -- custom Sphinx styling */
+
+/* Allow wider content area for equations and tables */
+.wy-nav-content {
+    max-width: 960px !important;
+}
+
+/* Equation number alignment */
+.eqno {
+    float: right;
+}
+
+/* Code block styling */
+div.highlight pre {
+    font-size: 0.85em;
+}
+
+/* Figure captions */
+.figure .caption {
+    font-style: italic;
+}
