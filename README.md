@@ -15,10 +15,6 @@ Developed at the **University of Rhode Island (URI)**.
 
 ## Pipeline Overview
 
-<p align="center">
-  <img src="docs/source/figures/pipeline_flowchart.png" alt="Pipeline Flowchart" width="85%">
-</p>
-
 | Stage | Tool | Description |
 |-------|------|-------------|
 | **1. Mesh Generation** | `generate_case.py` | Parametric panel mesh for twin-pontoon catamaran geometry |
